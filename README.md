@@ -12,7 +12,7 @@
 1. 먼저, 프로젝트 디렉토리로 이동합니다. 
 `cd [Your Project Directory]`
 
-2. 먼저, 프로젝트를 클론합니다.
+2. 프로젝트를 클론합니다.
 `git clone https://github.com/ing970/final-project`
 
 3. 필요한 Python 라이브러리를 설치합니다.
